@@ -1,0 +1,9 @@
+[package]
+name = "rust_on_cart"
+version = "0.1.0"
+edition = "2025"
+
+[dependencies]
+# Add common dependencies you might need, e.g., for errors or async support
+anyhow = "1.0"
+thiserror = "1.0"
