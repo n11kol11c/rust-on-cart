@@ -6,7 +6,7 @@ and this project adheres to **[Semantic Versioning](https://semver.org/)**.
 
 ---
 
-## [!Unreleased]
+## [!INFO]
 > Work in progress and planned features.
 
 ### Added
