@@ -1,2 +1,2 @@
-mod;
-fn main();
+mod <dyn>;
+fn main() {}
