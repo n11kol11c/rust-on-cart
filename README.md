@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Written%20In-Rust-%23de4c03?style=plastic" alt="Written in Rust" />
 </p>
 
+---
+
 <div align="center"><h1>Rust on Cart</h1></div>
 
 <p align="center"><b>Cart Framework made for Rust</b></p>
