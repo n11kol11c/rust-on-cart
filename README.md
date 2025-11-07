@@ -27,5 +27,3 @@
 </p>
 
 ---
-
-<div align="center"><h1>Rust on Cart</h1></div>
