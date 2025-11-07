@@ -11,11 +11,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-n11kol11c-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Rust-darkcyan?style=flat-square">
-  <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn11kol11c%2Frust-on-cart&title=Visitors&edge_flat=false" />-->
-</p>
+  <img src="https://img.shields.io/badge/Author-n11kol11c-blue">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue">
+  <img src="https://img.shields.io/badge/Written%20In-Rust-%23de4c03">
 
+  <a href="https://github.com/n11kol11c/rust-on-cart/stargazers">
+    <img src="https://img.shields.io/github/stars/n11kol11c/rust-on-cart?label=Stars&color=yellow&labelColor=black">
+  </a>
+  
+  <a href="https://github.com/n11kol11c/rust-on-cart/network/members">
+    <img src="https://img.shields.io/github/forks/n11kol11c/rust-on-cart?label=Forks&color=lightgrey&labelColor=black">
+  </a>
+
+  <a href="https://github.com/n11kol11c/rust-on-cart/issues">
+    <img src="https://img.shields.io/github/issues/n11kol11c/rust-on-cart?label=Issues&color=orange&labelColor=black">
+  </a>
+
+  <img src="https://img.shields.io/badge/version-1.0.0-black">
+</p>
 <p align="center"><b>Cart Framework made for Rust</b></p>
