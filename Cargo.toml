@@ -1,22 +1,13 @@
 [package]
-name = "rust-on-cart"
+name = "rust_on_cart"
 version = "0.1.0"
-edition = "2025"
+edition = "2024"
 
 [dependencies]
 anyhow = "1.0"
-parking_lot = "0.12"
 once_cell = "1.20"
 proc-macro2 = "1.0"
 quote = "1.0"
 syn = { version = "2.0", features = ["full"] }
-
-
-[lib]
-name = "cart"
-path = "src/lib.rs"
-
-[lib.proc-macro]
-name = "cart_macros"
-path = "src/macros.rs"
-proc-macro = true
+uuid = { version = "1.7", default-features = false, features = ["v4", "rng"] }
+time = { version = "0.3", default-features = false, features = ["macros"] }
