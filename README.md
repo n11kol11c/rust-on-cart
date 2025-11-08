@@ -6,7 +6,7 @@
   <!-- Top row: repo stats -->
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=flat" alt="Version 1.0.0" />
   <a href="https://github.com/n11kol11c/rust-on-cart/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/License/n11kol11c/rust-on-cart?style=flat" alt="License" />
+    <img src="https://img.shields.io/github/license/n11kol11c/rust-on-cart?style=flat" alt="License" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/stargazers">
     <img src="https://img.shields.io/github/stars/n11kol11c/rust-on-cart?style=flat&color=yellow&label=Stars&labelColor=black" alt="GitHub stars" />
