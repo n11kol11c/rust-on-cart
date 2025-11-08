@@ -1,7 +1,7 @@
 pub use crate::errors::error::CartError;
 
 pub enum Colors {
-  ClrWHITE(String)?
+    ClrWHITE(String)
 }
 
 impl Colors {}
