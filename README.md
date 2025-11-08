@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/github/license/n11kol11c/rust-on-cart?style=flat" alt="License" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/stargazers">
-    <img src="https://img.shields.io/github/stars/n11kol11c/rust-on-cart?style=flat&color=yellow&label=Stars&labelColor=black" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/n11kol11c/rust-on-cart?style=flat&color=yellow&label=Stars" alt="GitHub stars" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/issues">
-    <img src="https://img.shields.io/github/issues/n11kol11c/rust-on-cart?style=flat&color=red&label=Issues&labelColor=black" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/issues/n11kol11c/rust-on-cart?style=flat&color=red&label=Issues" alt="GitHub issues" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/network/members">
-    <img src="https://img.shields.io/github/forks/n11kol11c/rust-on-cart?style=flat&color=teal&label=Forks&labelColor=black" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/forks/n11kol11c/rust-on-cart?style=flat&color=teal&label=Forks" alt="GitHub forks" />
   </a>
 
   <br />
