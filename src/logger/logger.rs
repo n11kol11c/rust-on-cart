@@ -41,4 +41,8 @@ impl Logger {
             _ => Err(CartError::Exception(format!("Whats that log? : '{}'", option))),
         }
     }
+
+    pub fn log_enum(log: Logger) -> Result<(), CartError> {
+        log.log()
+    }
 }
