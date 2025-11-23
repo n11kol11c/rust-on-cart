@@ -25,3 +25,8 @@
 </p>
 
 ---
+
+<div align="center">
+    <h1><b><i>Rust On Cart</i></b></h1>
+    <h3>Rust Framework</h3>
+</div>
