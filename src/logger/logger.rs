@@ -9,6 +9,7 @@ pub enum Logger<T: Display> {
     LogAbort(i32),
 }
 
+
 impl<T: Display> Logger<T> {
     pub fn log(&self) -> Result<(), CartError> {
         match self {
@@ -48,3 +49,4 @@ impl<T: Display> Logger<T> {
         log.log()
     }
 }
+
