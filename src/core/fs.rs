@@ -29,3 +29,5 @@ pub fn read_file(path: &str) -> Result<String, CartError> {
 pub fn delete_file(path: &str) -> Result<(), CartError> {
     fs::remove_file(path).map_err(|e: std::io::Error| CartError::IoError(e.to_string()))
 }
+
+pub fn copy_file(path: &str, dest: &str) -> Result<(), CartError> { return; }
