@@ -13,6 +13,7 @@ $rustup = "$env:USERPROFILE\.cargo\bin\rustup.exe"
 cargo --version
 rustc --version
 
+
 if ($ProjectName -ne "") {
     cargo new $ProjectName
     Set-Location $ProjectName
