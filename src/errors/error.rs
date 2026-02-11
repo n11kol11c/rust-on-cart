@@ -15,8 +15,10 @@ impl std::fmt::Display for CartError {
             CartError::NetworkError(msg) => write!(f, "Network Error: {}", msg),
             CartError::ResourceError(msg) => write!(f, "Resource Error: {}", msg),
             CartError::Exception(msg) => write!(f, "Error: {}", msg),
+            CartError::EnumError(msg) => write!(f, "Enum Error: {}", msg),
         }
     }
 }
+
 
 impl std::error::Error for CartError {}
