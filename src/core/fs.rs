@@ -31,3 +31,5 @@ pub fn delete_file(path: &str) -> Result<(), CartError> {
 }
 
 pub fn copy_file(path: &str, dest: &str) -> Result<(), CartError> { return; }
+
+pub fn enfy(path: &str, to: &str) -> Result<(), CartError> { return; }
